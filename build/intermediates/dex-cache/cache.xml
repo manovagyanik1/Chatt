@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shubham\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\shubham\Downloads\Compressed\q-municate-android-master\ChattDemo Main\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-0246104c0f1f49c55f9e33da48bc2d546811691a.jar" />
+    </item>
+    <item
+        jar="C:\Users\shubham\Downloads\Compressed\q-municate-android-master\ChattDemo Main\app\libs\Parse-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1724acfaa5ad53f76aad702318391fed16cd98ca">
+        <dex dex="C:\Users\shubham\Downloads\Compressed\q-municate-android-master\ChattDemo Main\app\build\intermediates\pre-dexed\debug\Parse-1.4.0-de7fc04b2754d6d57392222edf9ddf4018827509.jar" />
+    </item>
+
+</items>
